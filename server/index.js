@@ -33,10 +33,4 @@ app.listen(3001, () => {
   console.log("server is running  pakka tane?");
 });
 
-// (err, result) => {
-//   if (err) {
-//     res.json(err);
-//   } else {
-//     res.json(result);
-//   }
-// })
+
